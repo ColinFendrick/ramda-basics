@@ -5,6 +5,7 @@ export const {
 	apply,
 	call,
 	flip,
+	map,
 	repeat,
 	subtract
 } = R;
