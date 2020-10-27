@@ -5,7 +5,11 @@ export const {
 	apply,
 	call,
 	flip,
+	head,
+	init,
+	last,
 	map,
 	repeat,
-	subtract
+	subtract,
+	tail
 } = R;
