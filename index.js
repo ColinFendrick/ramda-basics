@@ -4,6 +4,7 @@ export const {
 	add,
 	apply,
 	call,
+	contains,
 	flip,
 	head,
 	init,
