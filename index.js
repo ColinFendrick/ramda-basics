@@ -11,6 +11,7 @@ export const {
 	map,
 	pluck,
 	repeat,
+	splitEvery,
 	subtract,
 	tail
 } = R;
