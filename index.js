@@ -9,6 +9,7 @@ export const {
 	init,
 	last,
 	map,
+	pluck,
 	repeat,
 	subtract,
 	tail
