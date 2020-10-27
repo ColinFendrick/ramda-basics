@@ -9,7 +9,10 @@ import { head, tail, init, last } from '../index.js';
 
 const nums = [2, 4, 6, 8, 10];
 
-console.log(head(nums));
-console.log(tail(nums));
-console.log(init(nums));
-console.log(last(nums));
+console.log(`
+  base: ${nums}
+  head: ${head(nums)}
+  tail: ${tail(nums)}
+  init: ${init(nums)}
+  last: ${last(nums)}
+`);
