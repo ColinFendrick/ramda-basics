@@ -18,6 +18,8 @@ export const {
 	contains,
 	comparator,
 	flip,
+	find,
+	findLast,
 	gt,
 	head,
 	init,
